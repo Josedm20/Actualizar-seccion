@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.coli{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.575), rgba(0,0,0,0.575)), url(../IMG/car.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 657px;
+}
+.pad{
+    padding-right: 6rem;
+    padding-bottom: 0.7rem;
+    background-color: #e2e2e2;
+    border-radius: 5PX;
+}
+.pad2{
+    padding-right: 7rem;
+}
